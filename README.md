@@ -1,1 +1,1 @@
-# Assign-02-PHP-NameOfProgram
+# Assign-02-PHP-PythagoreanTheorem
